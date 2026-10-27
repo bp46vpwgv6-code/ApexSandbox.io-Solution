@@ -1,0 +1,11 @@
+public Integer diff(Integer a, Integer b) {
+    Integer r;
+    If (a > b){
+        r = a-b;
+        return r;
+    }
+    else{
+        r = b-a;
+        return r;
+    }
+}
